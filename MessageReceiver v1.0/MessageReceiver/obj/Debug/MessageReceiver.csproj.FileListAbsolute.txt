@@ -1,0 +1,12 @@
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.exe.config
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.exe
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\bin\Debug\MessageReceiver.pdb
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\bin\Debug\MetroSet UI.dll
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.AssemblyReference.cache
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.Properties.Resources.resources
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.GenerateResource.cache
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.csproj.CopyComplete
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.exe
+C:\Users\Cuni\Desktop\Github\MessageReceiver\MessageReceiver\obj\Debug\MessageReceiver.pdb
